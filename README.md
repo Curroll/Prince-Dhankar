@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Dhankar</h1>
 <h3 align="center">Aspiring Software Developer | MERN Stack Enthusiast</h3>
 
-- 🌱 I’m currently learning **Full stack**
+- 🌱 I’m currently learning **Full stack and Dsa**
 
 - 📫 How to reach me **dhankarprince02@gmail.com**
 
@@ -22,4 +22,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=curroll&show_icons=true&locale=en&layout=compact" alt="curroll" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=curroll&" alt="curroll" /></p>
-**
