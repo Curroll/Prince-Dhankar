@@ -1,77 +1,25 @@
-<h1 align="center">Hey 👋, I'm Prince Dhankar</h1>
-<p align="center">
-  <b>Aspiring Full Stack Developer | MERN Stack Enthusiast | BCA '25</b>
+**<h1 align="center">Hi 👋, I'm Prince Dhankar</h1>
+<h3 align="center">Aspiring Software Developer | MERN Stack Enthusiast</h3>
+
+- 🌱 I’m currently learning **Full stack**
+
+- 📫 How to reach me **dhankarprince02@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/prince dhankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince dhankar" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_prince_dhankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_prince_dhankar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prince dhankar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prince dhankar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prince dhankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prince dhankar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prince dhankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prince dhankar" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@prince dhankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@prince dhankar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dhankarplbcp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhankarplbcp" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/princedhankar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:dhankarprince02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Curroll">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
-  </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=curroll&show_icons=true&locale=en&layout=compact" alt="curroll" /></p>
 
-### 🚀 About Me
-- 🎓 I'm a 3rd-year BCA student at Aditya Degree College  
-- 💻 Passionate about building real-world projects using **React**, **Node.js**, **MongoDB**, and **Express.js**  
-- 📱 Recently built a **React Native + Web dashboard** for a logistics system (MCP System)  
-- 🌱 Currently learning **Next.js**, **MongoDB Deep Dive**, and sharpening **DSA in Java**  
-- 🧠 Completed certifications in:
-  - React.js  
-  - Version Control  
-  - Android Development  
-  - Communication Skills (Pearson MePro)  
-  - AI/ML Internship with Ulern  
-- 🎯 Goal: Land a full-time role as a **Full Stack Developer** with a package of **12+ LPA**
-
----
-
-### 🧩 Projects
-
-- 🔐 **Authentication API (Node + JWT + Role-based access)**  
-  Complete backend auth system with secure login, registration, and middleware-based access.
-
-- 📦 **The MCP System**  
-  Role-based logistics management app for MCPs and Pickup Partners — includes dashboards, wallet, transactions, and order tracking.
-
-- 🌤️ **Weather App** (HTML/CSS/JS)  
-  Clean UI app fetching real-time weather data using APIs.
-
-- ✅ **To-Do List App** | ⏱️ **React Stopwatch**
-
----
-
-### 🛠️ Tech Stack
-
-- **Frontend**: React.js, Tailwind CSS, JavaScript, HTML/CSS  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB, Firebase (basics)  
-- **Tools**: Git & GitHub, Postman, VS Code  
-- **Others**: React Native, JWT, Bcrypt, Linux (basic)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Curroll&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Curroll&theme=github-dark-blue" width="48%" />
-</p>
-
----
-
-### 📬 Let's Connect!
-
-Got a project or opportunity you'd like to discuss?  
-Reach out to me via [LinkedIn](https://www.linkedin.com/in/princedhankar) or mail me at **dhankarprince02@gmail.com**
-
----
-
-> “I believe in learning by building. Every project teaches me something new.”
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=curroll&" alt="curroll" /></p>
+**
