@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Dhankar</h1>
-<h3 align="center">Aspiring Software Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer | MERN Stack Enthusiast</h3>
 
 - 🌱 I’m currently learning **Web Development and Dsa**
 
