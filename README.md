@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Dhankar</h1>
 <h3 align="center">Aspiring Software Developer | MERN Stack Enthusiast</h3>
 
-- 🌱 I’m currently learning **Full stack and Dsa**
+- 🌱 I’m currently learning **Web Development and Dsa**
 
 - 📫 How to reach me **dhankarprince02@gmail.com**
 
